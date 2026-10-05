@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
-<!--
-**Guilhermeoliveira2938/Guilhermeoliveira2938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de programação, aprendendo na prática e construindo projetos do zero.<br>
+  Foco atual: <b>Web (HTML, CSS, JavaScript)</b>, <b>Python</b>, <b>Java</b> e <b>React</b>.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+| Projeto | Descrição |
+|---|---|
+| [**Projeto-social**](https://github.com/Guilhermeoliveira2938/Projeto-social) | Site de redes sociais com várias páginas em HTML e CSS |
+| [**projeto-cordel**](https://github.com/Guilhermeoliveira2938/projeto-cordel) | Página sobre cordel, baseada no projeto do Milton Duarte |
+
+## 📚 Estudos
+
+| Trilha | Repositório |
+|---|---|
+| HTML5 e CSS3 | [html-css](https://github.com/Guilhermeoliveira2938/html-css) |
+| JavaScript (Curso em Vídeo) | [java-scritp](https://github.com/Guilhermeoliveira2938/java-scritp) |
+| Python (Curso em Vídeo) | [Python](https://github.com/Guilhermeoliveira2938/Python) |
+| Java (Nélio Alves) | [java](https://github.com/Guilhermeoliveira2938/java) |
+| React (Hora de Codar) | [react](https://github.com/Guilhermeoliveira2938/react) |
+| React Native | [react-native](https://github.com/Guilhermeoliveira2938/react-native) |
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guilhermeoliveira2938&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeoliveira2938&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+<p align="center">⭐ Sempre aprendendo, um commit de cada vez.</p>
