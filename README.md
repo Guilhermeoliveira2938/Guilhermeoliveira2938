@@ -22,6 +22,7 @@
 |---|---|
 | [**Projeto-social**](https://github.com/Guilhermeoliveira2938/Projeto-social) | Site de redes sociais com várias páginas em HTML e CSS |
 | [**projeto-cordel**](https://github.com/Guilhermeoliveira2938/projeto-cordel) | Página sobre cordel, baseada no projeto do Milton Duarte |
+| [**QR Studio**](https://guilhermeoliveira2938.github.io/qr-studio/) | Gerador de QR Code online para link, texto e Wi-Fi, com logo no centro e download em PNG ou SVG (HTML, CSS e JavaScript) |
 | [**gerador-qrcode**](https://github.com/Guilhermeoliveira2938/gerador-qrcode) | Gera QR Codes a partir de um link, no terminal ou com interface gráfica (Python + Tkinter) |
 | [**organizador_arquivos**](https://github.com/Guilhermeoliveira2938/Python/tree/main/organizador_arquivos) | Script em Python que organiza os arquivos de uma pasta por tipo |
 
