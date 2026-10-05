@@ -28,7 +28,7 @@
 | Trilha | Repositório |
 |---|---|
 | HTML5 e CSS3 | [html-css](https://github.com/Guilhermeoliveira2938/html-css) |
-| JavaScript (Curso em Vídeo) | [java-scritp](https://github.com/Guilhermeoliveira2938/java-scritp) |
+| JavaScript (Curso em Vídeo) | [javascript](https://github.com/Guilhermeoliveira2938/javascript) |
 | Python (Curso em Vídeo) | [Python](https://github.com/Guilhermeoliveira2938/Python) |
 | Java (Nélio Alves) | [java](https://github.com/Guilhermeoliveira2938/java) |
 | React (Hora de Codar) | [react](https://github.com/Guilhermeoliveira2938/react) |
